@@ -1,0 +1,27 @@
+Percentage of k-colorable graphs which are n-resilient
+data/graph6.txt
+
+k\n       1       2       3       4
+  ----------------------------------------
+3       58.0    22.7     5.9     1.7
+4       93.3    79.3    58.0    35.3
+5       99.4    98.1    94.8    89.0
+6      100.0   100.0   100.0   100.0
+
+Percentage of k-colorable graphs which are n-resilient
+data/graph7.txt
+
+k\n       1       2       3       4
+  ----------------------------------------
+3       38.1     8.2     1.2     0.3
+4       86.7    62.6    35.0    14.9
+5       98.7    95.6    88.5    76.2
+6       99.9    99.7    99.2    98.3
+
+Percentage of k-colorable graphs which are n-resilient
+data/graph8.txt
+
+k\n       1       2       3       4
+  ----------------------------------------
+3       21.3     2.1     0.2     0.0
+4       77.6    44.2    17.0     4.5
